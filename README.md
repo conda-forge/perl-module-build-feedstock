@@ -1,11 +1,22 @@
+About perl-module-build-feedstock
+=================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/perl-module-build-feedstock/blob/main/LICENSE.txt)
+
 About perl-module-build
-=======================
+-----------------------
 
 Home: https://github.com/Perl-Toolchain-Gang/Module-Build
 
 Package license: GPL-1.0-or-later OR Artistic-1.0-Perl
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/perl-module-build-feedstock/blob/main/LICENSE.txt)
+Summary: Build and install Perl modules
+About perl-module-build
+-----------------------
+
+Home: https://github.com/Perl-Toolchain-Gang/Module-Build
+
+Package license: GPL-1.0-or-later OR Artistic-1.0-Perl
 
 Summary: Build and install Perl modules
 
