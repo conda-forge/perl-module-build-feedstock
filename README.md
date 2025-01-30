@@ -26,14 +26,7 @@ Current build status
 ====================
 
 
-<table><tr>
-    <td>Travis</td>
-    <td>
-      <a href="https://app.travis-ci.com/conda-forge/perl-module-build-feedstock">
-        <img alt="linux" src="https://img.shields.io/travis/com/conda-forge/perl-module-build-feedstock/main.svg?label=Linux">
-      </a>
-    </td>
-  </tr>
+<table>
     
   <tr>
     <td>Azure</td>
@@ -203,6 +196,7 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@conda-forge/perl-packagers](https://github.com/conda-forge/perl-packagers/)
+* [@conda-forge/perl-packagers](https://github.com/orgs/conda-forge/teams/perl-packagers/)
+* [@martin-g](https://github.com/martin-g/)
 * [@xileF1337](https://github.com/xileF1337/)
 
