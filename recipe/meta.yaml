@@ -42,3 +42,4 @@ extra:
   recipe-maintainers:
     - xileF1337
     - conda-forge/perl-packagers
+    - martin-g
